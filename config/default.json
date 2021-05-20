@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://vedant_99:vedant_99@cluster0-xuwcw.mongodb.net/food_app?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
